@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 from asciimatics.screen import Screen
-import sys
-import os
 import time
 import random
 
